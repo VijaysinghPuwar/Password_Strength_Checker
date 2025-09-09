@@ -2,7 +2,7 @@
 
 A lightweight Streamlit app to **evaluate password strength** by checking character composition and giving helpful tips.
 
-👉 **Live Demo:** https://supreme-umbrella-7w9gjrvwpqx3rxww-8501.app.github.dev/
+👉 **Live Demo:** [https://supreme-umbrella-7w9gjrvwpqx3rxww-8501.app.github.dev/](https://supreme-umbrella-7w9gjrvwpqx3rxww-8501.app.github.dev/)
 
 ---
 
